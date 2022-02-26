@@ -1,0 +1,15 @@
+D:\taskone\Tasktwo\ITask\bin\Debug\net5.0\ITaskRepository.deps.json
+D:\taskone\Tasktwo\ITask\bin\Debug\net5.0\ITaskRepository.dll
+D:\taskone\Tasktwo\ITask\bin\Debug\net5.0\ref\ITaskRepository.dll
+D:\taskone\Tasktwo\ITask\bin\Debug\net5.0\ITaskRepository.pdb
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.AssemblyInfoInputs.cache
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.AssemblyInfo.cs
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.csproj.CoreCompileInputs.cache
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.dll
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ref\ITaskRepository.dll
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.pdb
+D:\taskone\Tasktwo\ITask\bin\Debug\net5.0\DtoTask.dll
+D:\taskone\Tasktwo\ITask\bin\Debug\net5.0\DtoTask.pdb
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.csproj.AssemblyReference.cache
+D:\taskone\Tasktwo\ITask\obj\Debug\net5.0\ITaskRepository.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ITaskRepository/1.0.0": {
+        "dependencies": {
+          "DtoTask": "1.0.0"
+        },
+        "runtime": {
+          "ITaskRepository.dll": {}
+        }
+      },
+      "DtoTask/1.0.0": {
+        "runtime": {
+          "DtoTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITaskRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DtoTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

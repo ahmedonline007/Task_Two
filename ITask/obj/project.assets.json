@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DtoTask/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DtoTask.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DtoTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DtoTask/1.0.0": {
+      "type": "project",
+      "path": "../DtoTask/DtoTask.csproj",
+      "msbuildProject": "../DtoTask/DtoTask.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DtoTask >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\A7med\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\taskone\\Tasktwo\\ITask\\ITaskRepository.csproj",
+      "projectName": "ITaskRepository",
+      "projectPath": "D:\\taskone\\Tasktwo\\ITask\\ITaskRepository.csproj",
+      "packagesPath": "C:\\Users\\A7med\\.nuget\\packages\\",
+      "outputPath": "D:\\taskone\\Tasktwo\\ITask\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\A7med\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\taskone\\Tasktwo\\DtoTask\\DtoTask.csproj": {
+              "projectPath": "D:\\taskone\\Tasktwo\\DtoTask\\DtoTask.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

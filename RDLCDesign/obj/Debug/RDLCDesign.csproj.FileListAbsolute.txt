@@ -1,0 +1,11 @@
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RDLCDesign.csproj.AssemblyReference.cache
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RDLCDesign.Properties.Resources.resources
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RDLCDesign.csproj.GenerateResource.cache
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RdlCompile.cache
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RdlCompile.compiled
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RDLCDesign.csproj.CoreCompileInputs.cache
+D:\taskone\Tasktwo\RDLCDesign\bin\Debug\RDLCDesign.exe.config
+D:\taskone\Tasktwo\RDLCDesign\bin\Debug\RDLCDesign.exe
+D:\taskone\Tasktwo\RDLCDesign\bin\Debug\RDLCDesign.pdb
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RDLCDesign.exe
+D:\taskone\Tasktwo\RDLCDesign\obj\Debug\RDLCDesign.pdb
